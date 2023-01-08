@@ -1,6 +1,10 @@
 # hexschool_react-todolist
 
 ### 【React 新手證書任務】Todolist 待辦事項 - React Todolist
+
+
+<img src="https://imgur.com/Mv755Hp.jpg" width="400">
+
 [Demo](https://yoshiyyc.github.io/hexschool_react-todolist/) 
 * One of the final projects of the seminar "2022 React 新手讀書會 - 2022 React Beginner Seminar" 
 * [Visual design template (includes HTML & CSS)](https://codepen.io/liao/pen/mdpmXKg) provided by Hexschool, part of the HTML and CSS are adjusted to meet Javascript needs
