@@ -21,4 +21,4 @@
   * 將全部、待完成、已完成事項歸類到不同分頁
   * 顯示待完成事項總數
   * 一次性清除所有已完成的待辦事項
-* 以 React Router （Create React App）部署 todolist
+* 以 React Router (Create React App) 部署 todolist
